@@ -1,2 +1,3 @@
 # Img_classification
-Applied Deep Learning Assignment 2
+Recongnize landmarks of Columbia
+
